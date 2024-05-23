@@ -1,0 +1,5 @@
+insert into productos(nombre,precio,descripcion) values ("salame",100,"salame de cerdo")
+insert into productos(nombre,precio,descripcion) values ("bondiola",500,"bondiola de cerdo")
+insert into productos(nombre,precio,descripcion) values ("manaos",50,"gaseosa cola")
+insert into productos(nombre,precio,descripcion) values ("mandarina",125,"mandarinas de estacion")
+insert into productos(nombre,precio,descripcion) values ("limon",250,"limones tucumanos")
